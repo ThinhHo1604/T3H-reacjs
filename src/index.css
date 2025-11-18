@@ -10796,3 +10796,12 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px  
+}
+
+.label{
+  margin-left: 5px;
+}
